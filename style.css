@@ -1,26 +1,13 @@
 .div1 {
-    background-color: red;
-    color: aliceblue;
+    background-color: rgb(31, 31, 77);
+    color: white;
+}
+.div2 {
+    background-color: rgb(236, 150, 236);
+    color: white;
 }
 
-.el1{
-    background-color: black;
-    color: aliceblue;
-}
-#h1{
-    background-color: blue;
-    color: aliceblue;
-
-}
-span {
-    background-color: lime;
-}
-
-
-.liste{
-    color: #000;
-}
-.baş{
-    background-color: hotpink;
-    color: aliceblue;
+.div4{
+    background-color: rgb(231, 226, 226);
+    color: black;
 }
